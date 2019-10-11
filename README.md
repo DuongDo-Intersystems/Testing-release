@@ -1,3 +1,4 @@
-# README 1
+# README
 
-This is the release version 1.
+This is the release version 1. (removed)
+We now release version 2
